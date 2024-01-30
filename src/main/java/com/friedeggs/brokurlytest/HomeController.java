@@ -9,6 +9,6 @@ public class HomeController {
     // HomeController 주석 추가
 
     public void testMethod() {
-
+        System.out.println();
     }
 }
