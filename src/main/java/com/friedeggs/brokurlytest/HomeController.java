@@ -10,6 +10,7 @@ public class HomeController {
 
     public void testMethod() {
         System.out.println();
+        System.out.println("승인해줘 학준아");
     }
 
     public static class NahyeController {
