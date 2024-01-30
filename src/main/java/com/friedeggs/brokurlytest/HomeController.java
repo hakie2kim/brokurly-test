@@ -11,4 +11,11 @@ public class HomeController {
     public void testMethod() {
 
     }
+
+    public static class NahyeController {
+
+
+
+
+    }
 }
